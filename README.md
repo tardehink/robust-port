@@ -4,17 +4,17 @@
 This is a practice project focused on building a robust port.
 
 ## Features
-- Feature 1
-- Feature 2
+- Robust connection handling
+- Dynamic port assignment
 
 ## Technology Stack
-- Technology 1
-- Technology 2
+- Python
+- Socket Programming
 
 ## Usage
-1. Step 1
-2. Step 2
+1. Clone the repository.
+2. Run the main script.
 
 ## Future Plans
-- Plan 1
-- Plan 2
+- Implement error handling
+- Add more features for robustness
